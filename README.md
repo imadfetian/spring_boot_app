@@ -1,4 +1,4 @@
-# 2019-Cat-Prod-Test
+Cat-Prod-Test
 Application basé sur les micro-Services (SpringBoot, Angular, MongoDB, MySQL, Json Web Token ...)
 
 Application web JEE qui permet des gérer des produits classés par catégories :
